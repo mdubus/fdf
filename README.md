@@ -1,11 +1,12 @@
 # FDF
 
 A beautiful map visualizer program, coded in C with the minilibx (included).
+
 It is the first infographie project of the school 42. 
 
 Multiple bonus :
 * Specify the color in the file in parameter (hexadecimal)
-* Move with keys Up / down / left / right
+* Move with keys up / down / left / right
 * Zoom with keys + - or scroll
 * Change height of the points specified in parameter with keys < > 
 * Change projection (flat or isometric)
